@@ -1,0 +1,51 @@
+body 
+{
+    background-color: rgb(247, 249, 201);
+}
+
+.box
+{
+    position : absolute;
+    top : 50%;
+    left : 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 8px 10px 7px rgb(213, 72, 157);
+}
+
+.box-conts
+{
+    position : absolute;
+    top : 50%;
+    left : 50%;
+    transform: translate(-50%, -50%);
+}
+
+Input:focus
+{
+    color:rgb(18, 18, 16);
+}
+
+#c0
+{
+    color : rgb(142, 1, 1);
+}
+
+#c1
+{
+    color: rgb(247, 142, 103);
+}
+
+#c2
+{
+    color: orange;
+}
+
+#c3
+{
+    color: rgb(95, 221, 95);
+}
+
+#c4
+{
+    color: green;
+}
