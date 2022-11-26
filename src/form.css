@@ -1,51 +1,44 @@
-body 
+#White
 {
-    background-color: rgb(247, 249, 201);
+    background-color: white;
 }
 
-.box
+#Lime 
 {
-    position : absolute;
-    top : 50%;
-    left : 50%;
-    transform: translate(-50%, -50%);
-    box-shadow: 8px 10px 7px rgb(213, 72, 157);
+    background-color: lime;
 }
 
-.box-conts
+#Lavender
 {
-    position : absolute;
-    top : 50%;
-    left : 50%;
-    transform: translate(-50%, -50%);
+    background-color: lavender;
 }
 
-Input:focus
+#Crimson
 {
-    color:rgb(18, 18, 16);
+    background-color: crimson;
 }
 
-#c0
+#darkblue
 {
-    color : rgb(142, 1, 1);
+    background-color: darkblue;
 }
-
-#c1
+#teal
 {
-    color: rgb(247, 142, 103);
+    background-color: teal;
 }
-
-#c2
+#Rebeccapurple
 {
-    color: orange;
+    background-color: rebeccapurple;
 }
-
-#c3
+#Ghostwhite
 {
-    color: rgb(95, 221, 95);
+    background-color: ghostwhite;
 }
-
-#c4
+#Aquamarine
 {
-    color: green;
+    background-color: aquamarine;
+}
+#Aliceblue
+{
+    background-color: aliceblue;
 }
